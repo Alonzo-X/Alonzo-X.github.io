@@ -7,7 +7,7 @@ function fetchGradeData() {
 // TODO: Populate the table with grade data
 function populateGradebook(data) {
     // This function will take fetched grade data and populate the table
-    Console.log("Populating gradebook with data:", data);
+    console.log("Populating Gradebook with data:", data);
 }
 
 // TODO REMOVE THIS
